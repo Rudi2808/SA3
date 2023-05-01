@@ -58,7 +58,6 @@ margin-top: 16px;
 }
 
 
-
 .load {
 background-color: rgb(241, 241, 241);
 border-bottom-left-radius: 16px;
@@ -97,7 +96,6 @@ text-align: center;
     font-size: 12px;
     line-height: 18px;
 }
-
 
 .progress2 {
 background-color: #099fb3 !important;
@@ -195,3 +193,6 @@ i {
 hr {
     border: -1px solid gray;
 }
+
+
+s
